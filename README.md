@@ -47,7 +47,7 @@
   
   * ### Deber
     * Completar la sección 1.1 del documento guía.
-    * Realizar el primer ejercicio del documento (Sandbox): [Crear repositorios](https://classroom.github.com/a/EZKrU5fK)
+    * [Sandbox](https://classroom.github.com/a/EZKrU5fK)
     * **Investigar** 
       * ¿Qué es Java?
       * ¿Qué es la Programación Orientada a Objetos?
@@ -57,6 +57,10 @@
   * 1.2 Impresión
   * 1.3 Lectura de entrada
   * 1.4 Variables
+  * **Deber**
+    * [Ada Lovelace](https://classroom.github.com/a/bEV1TZap)
+    * [OnceUponATime](https://classroom.github.com/a/GJrdjVuH)
+    * [Dinasaur](https://classroom.github.com/a/C1MPtd6A)
     
 
 ### Clase 3 - Introducción a Java (2020-06-08)
