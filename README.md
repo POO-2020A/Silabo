@@ -41,7 +41,7 @@
 ### Clase 1 - Presentación (2020-06-01)
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUOE01TURSQ09NTzhaSkFTNEMxMTRYNTkwMy4u)
   * Verificar instalaciones de NetBeans, IntelliJ Idea o Replit.
-  * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/64479571-programacion-orientada-a-objetos-2020a): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
+  * [Unirse a la clase en GitHub](https://classroom.github.com/a/EZKrU5fK): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
   * [Unirse a Quizizz](https://quizizz.com/join?class=F947831)
   * [Documento guía de POO con Java](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERu2zp0yqnlLpfbzjMemLdwBnHkCYSalOFSBHfoNuqCUdg?e=nsvfWm)
   
