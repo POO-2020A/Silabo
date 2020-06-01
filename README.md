@@ -42,79 +42,91 @@
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUOE01TURSQ09NTzhaSkFTNEMxMTRYNTkwMy4u)
   * Verificar instalaciones de NetBeans, IntelliJ Idea o Replit.
   * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/64479571-programacion-orientada-a-objetos-2020a): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
-  * [Documento guía de POO con Java]()
-  * Formación de grupos
+  * [Unirse a Quizizz](https://quizizz.com/join?class=F947831)
+  * [Documento guía de POO con Java](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERu2zp0yqnlLpfbzjMemLdwBnHkCYSalOFSBHfoNuqCUdg?e=nsvfWm)
   
   * ### Deber
-    * 
+    * Completar la sección 1.1 del documento guía.
+    * Realizar el primer ejercicio del documento (Sandbox): [Crear repositorios](https://classroom.github.com/a/EZKrU5fK)
+    * **Investigar** 
+      * ¿Qué es Java?
+      * ¿Qué es la Programación Orientada a Objetos?
  
   
 ### Clase 2 - Introducción a Java (2020-06-03)
-  
+  * 1.2 Impresión
+  * 1.3 Lectura de entrada
+  * 1.4 Variables
     
 
-### Clase 3 -  (2020-06-08)
+### Clase 3 - Introducción a Java (2020-06-08)
+  * 1.5 Calculando con números
+  * 1.6 Declaraciones condicionales y operación condicional
+  * 1.7 la programación en nuestra sociedad
 
 
-
-### Clase 4 -  (2020-06-10)
-
-
-
-
-### Clase 5 -  (2020-06-15)
+### Clase 4 - Bucles de repetición (2020-06-10)
+ * 2.1 Problemas recurrentes y patrones para resolverlos
+ * 2.2 Bucles de repetición
 
 
+### Clase 5 - Organización de archivos del proyecto (2020-06-15)
+ * 2.3 Más bucles
+ * 2.4 Métodos y división del programa en partes más pequeñas
+ * 2.5 Cuestionario final
 
 
-### Clase 6 -  (2020-06-17)
+### Clase 6 - Listas (2020-06-17)
+ * 3.1 Depuración (debug) de un programa
+ * 3.2 Listas
 
 
+### Clase 7 - Matrices y cadenas (2020-06-22)
+ * 3.3 Matrices
+ * 3.4 Usando cadenas
+ * 3.5 Encuesta
 
 
-### Clase 7 -  (2020-06-22)
+### Clase 8 - Introducción a la programación orientada a objetos (2020-06-24)
+ * 4.1 Introducción a la programación orientada a objetos
 
 
+### Clase 9 - Archivos (2020-06-29)
+ * 4.2 Objetos en una lista
+ * 4.3 Archivos y datos de lectura
+ * 4.4 Encuesta
 
 
-### Clase 8 -  (2020-06-24)
+### Clase 10 - Clases y Objetos (2020-07-01)
+ * 5.1 Clases y objetos
+ * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
+ * 5.3 Variables primitivas y de referencia
 
 
+### Clase 11 - Objetos y referencias (2020-07-06)
+ * 5.4 Objetos y referencias
+ * 5.5 Encuesta
 
 
-### Clase 9 -  (2020-06-29)
+### Clase 12 - Objetos y listas (2020-07-08)
+ * 6.1 Objetos en una lista y una lista como parte de un objeto
+ * 6.2 Separar la interfaz de usuario de la lógica del programa
 
 
+### Clase 13 - Paradigmas de programación (2020-07-13)
+ * 6.3 Introducción a las pruebas unitarias
+ * 6.4 Encuesta
+ * 7.1 Paradigmas de programación
 
 
-### Clase 10 -  (2020-07-01)
+### Clase 14 - Algoritmos (2020-07-15)
+ * 7.2 Algoritmos
+ * 7.3 Ejercicios de programación más grandes
 
 
-
-
-### Clase 11 -  (2020-07-06)
-
-
-
-
-### Clase 12 -  (2020-07-08)
-
-
-
-
-### Clase 13 -  (2020-07-13)
-
-
-
-
-### Clase 14 -  (2020-07-15)
-
-
-
-
-### Clase 15 -  (2020-07-20)
-
-
+### Clase 15 - Ejercicios de programación (2020-07-20)
+ * 7.3 Ejercicios de programación más grandes
+ * 7.4 Encuesta
 
 
 ### Clase 16 -  (2020-07-22)
