@@ -59,7 +59,7 @@
   * 1.3 Lectura de entrada
   * 1.4 Variables
   * **Deber**
-    * [Ada Lovelace](https://classroom.github.com/a/bEV1TZap)
+    * [Ada Lovelace](https://classroom.github.com/a/g9kMi_9f)
     * [OnceUponATime](https://classroom.github.com/a/GJrdjVuH)
     * [Dinasaur](https://classroom.github.com/a/C1MPtd6A)
     
