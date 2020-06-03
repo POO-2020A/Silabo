@@ -54,7 +54,7 @@
  
   
 ### Clase 2 - Introducción a Java (2020-06-03)
-  * joinmyquiz.com (ID: 0589191)
+  * Quiz Fundamentos de Java
   * 1.2 Impresión
   * 1.3 Lectura de entrada
   * 1.4 Variables
