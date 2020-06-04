@@ -43,7 +43,8 @@
   * Verificar instalaciones de NetBeans, IntelliJ Idea o Replit.
   * [Unirse a la clase en GitHub](https://classroom.github.com/a/EZKrU5fK): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
   * [Unirse a Quizizz](https://quizizz.com/join?class=F947831)
-  * [Documento guía de POO con Java](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERu2zp0yqnlLpfbzjMemLdwBnHkCYSalOFSBHfoNuqCUdg?e=nsvfWm)
+  * [Documento guía de POO con Java](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EhQ1ovjC4JpAnWo9m04a37oBO2HLxnnXqN8p5Hoi3QmhoA?e=vKjhfL)
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Eq9EgfT8hoZDrMx4HEqpU64BRp0uIoGTbUvtx47pmB1hsw?e=HBaRjP)
   
   * ### Deber
     * Completar la sección 1.1 del documento guía.
@@ -56,17 +57,54 @@
 ### Clase 2 - Introducción a Java (2020-06-03)
   * Quiz Fundamentos de Java
   * 1.2 Impresión
-  * 1.3 Lectura de entrada
-  * 1.4 Variables
-  * **Deber**
     * [Ada Lovelace](https://classroom.github.com/a/g9kMi_9f)
     * [OnceUponATime](https://classroom.github.com/a/GJrdjVuH)
     * [Dinasaur](https://classroom.github.com/a/C1MPtd6A)
-    
+  * 1.3 Lectura de entrada
+    * [Message](https://classroom.github.com/a/rPKRBFA5)
+    * [Hi Ada Lovelace!](https://classroom.github.com/a/dodXKkta)
+    * [Message Three Times](https://classroom.github.com/a/iiHTiDVD)
+    * [Greeting](https://classroom.github.com/a/00lzy3Z6)
+    * [Conversation](https://classroom.github.com/a/m3tnwET5)
+    * [Story](https://classroom.github.com/a/yAaOotg_)
+  * 1.4 Variables
+    * [Quiz]()
+    * [Various Variables](https://classroom.github.com/a/pI7CHUHR)
+    * [Integer Input](https://classroom.github.com/a/uCWzBOyp)
+    * [Double Input](https://classroom.github.com/a/5Vji16n3)
+    * [Boolean Input](https://classroom.github.com/a/S93eNCIT)
+    * [Different Types of Input](https://classroom.github.com/a/AVKECkhL)
+        
 
 ### Clase 3 - Introducción a Java (2020-06-08)
   * 1.5 Calculando con números
+    * [Seconds in a day](https://classroom.github.com/a/zz7heo2m)
+    * [Quiz]()
+    * [Quiz]()
+    * [Sum of two numbers](https://classroom.github.com/a/HR9mJF0M)
+    * [Sum of three numbers](https://classroom.github.com/a/AoZhG2ka)
+    * [Addition formula](https://classroom.github.com/a/4eU5tRZK)
+    * [Multiplication formula](https://classroom.github.com/a/fwKtQM54)
+    * [Average of two numbers](https://classroom.github.com/a/pBMpOkEQ)
+    * [Average of three numbers](https://classroom.github.com/a/CJZLpszY)
+    * [Quiz]()
+    * [Simple calculator](https://classroom.github.com/a/IZ61LjWD)
+    * [Quiz]()
   * 1.6 Declaraciones condicionales y operación condicional
+    * [Speeding Ticket](https://classroom.github.com/a/RXPoT1ir)
+    * [Check Your Indentation](https://classroom.github.com/a/t1vQbTKm)
+    * [Orwell](https://classroom.github.com/a/NdSvqeAw)
+    * [Ancient](https://classroom.github.com/a/GHy2k7c4)
+    * [Positivity](https://classroom.github.com/a/_bNXDj_j)
+    * [Adulthood](https://classroom.github.com/a/MgJtap3f)
+    * [Larger Than or Equal To](https://classroom.github.com/a/G3i-Aqkm)
+    * [Grades and Points](https://classroom.github.com/a/eAgiYGA1)
+    * [Odd or even](https://classroom.github.com/a/Ti6qXBuI)
+    * [Password](https://classroom.github.com/a/SrET0lZW)
+    * [Same](https://classroom.github.com/a/DgsVoZzE)
+    * [Checking the age](https://classroom.github.com/a/k6Dqwd4c)
+    * [Leap year](https://classroom.github.com/a/bQRHEz-Y)
+    * [Gift tax](https://classroom.github.com/a/iE9Ixoah)
   * 1.7 la programación en nuestra sociedad
 
 
