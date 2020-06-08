@@ -131,7 +131,7 @@
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
  * 2.3 Más bucles]()
-   * [Quiz]()
+   * Quiz
    * [Counting]()
    * [Counting to hundred]()
    * [From where to where? (2 parts)]()
@@ -142,16 +142,16 @@
  * 2.4 Métodos y división del programa en partes más pequeñas]()
    * [In a hole in the ground]()
    * [Reprint]()
-   * [Quiz]()
+   * Quiz
    * [From one to parameter]()
    * [From parameter to one]()
    * [Division]()
    * [Divisible by three]()
-   * [Quiz]()
+   * Quiz
    * [Number uno]()
    * [Word]()
-   * [Quiz]()
-   * [Quiz]()
+   * Quiz
+   * Quiz
    * [Summation]()
    * [Smallest]()
    * [Greatest]()
