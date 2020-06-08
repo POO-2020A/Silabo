@@ -105,59 +105,59 @@
     * [Checking the age](https://classroom.github.com/a/k6Dqwd4c)
     * [Leap year](https://classroom.github.com/a/bQRHEz-Y)
     * [Gift tax](https://classroom.github.com/a/iE9Ixoah)
-  * 1.7 la programación en nuestra sociedad
+  * 1.7 La programación en nuestra sociedad
 
 
 ### Clase 4 - Bucles de repetición (2020-06-10)
  * 2.1 Problemas recurrentes y patrones para resolverlos
    * Quiz
-   * Squared
-   * Square root of sum
+   * [Squared]()
+   * [[Square root of sum]()
    * Quiz
-   * Absolute Value
-   * Comparing Numbers
+   * [Absolute Value]()
+   * [Comparing Numbers]()
  * 2.2 Bucles de repetición
-   * Carry on?
-   * Are we there yet?
+   * [Carry on?]()
+   * [Are we there yet?]()
    * Quiz
-   * Only positives
-   * Number of Numbers
-   * Number of negative numbers
-   * Sum of Numbers
-   * Number and sum of numbers
-   * Average of numbers
-   * Average of positive numbers
+   * [Only positives]()
+   * [Number of Numbers]()
+   * [Number of negative numbers]()
+   * [Sum of Numbers]()
+   * [Number and sum of numbers]()
+   * [Average of numbers]()
+   * [Average of positive numbers
 
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
- * 2.3 Más bucles
-   * Quiz
-   * Counting
-   * Counting to hundred
-   * From where to where? (2 parts)
-   * Sum of a sequence
-   * Sum of a sequence - the sequel
-   * Factorial
-   * Repeating, breaking and remembering (5 parts)
- * 2.4 Métodos y división del programa en partes más pequeñas
-   * In a hole in the ground
-   * Reprint
-   * Quiz
-   * From one to parameter
-   * From parameter to one
-   * Division
-   * Divisible by three
-   * Quiz
-   * Number uno
-   * Word
-   * Quiz
-   * Quiz
-   * Summation
-   * Smallest
-   * Greatest
-   * Averaging
-   * Star sign (4 parts)
-   * Advanced astrology (3 parts)
+ * 2.3 Más bucles]()
+   * [Quiz]()
+   * [Counting]()
+   * [Counting to hundred]()
+   * [From where to where? (2 parts)]()
+   * [Sum of a sequence]()
+   * [Sum of a sequence - the sequel]()
+   * [Factorial]()
+   * [Repeating, breaking and remembering (5 parts)]()
+ * 2.4 Métodos y división del programa en partes más pequeñas]()
+   * [In a hole in the ground]()
+   * [Reprint]()
+   * [Quiz]()
+   * [From one to parameter]()
+   * [From parameter to one]()
+   * [Division]()
+   * [Divisible by three]()
+   * [Quiz]()
+   * [Number uno]()
+   * [Word]()
+   * [Quiz]()
+   * [Quiz]()
+   * [Summation]()
+   * [Smallest]()
+   * [Greatest]()
+   * [Averaging]()
+   * [Star sign (4 parts)]()
+   * [Advanced astrology (3 parts)]()
  * 2.5 Cuestionario final
 
 
