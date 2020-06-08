@@ -112,7 +112,7 @@
  * 2.1 Problemas recurrentes y patrones para resolverlos
    * Quiz
    * [Squared]()
-   * [[Square root of sum]()
+   * [Square root of sum]()
    * Quiz
    * [Absolute Value]()
    * [Comparing Numbers]()
@@ -126,7 +126,7 @@
    * [Sum of Numbers]()
    * [Number and sum of numbers]()
    * [Average of numbers]()
-   * [Average of positive numbers
+   * [Average of positive numbers)[]
 
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
