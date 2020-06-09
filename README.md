@@ -130,7 +130,7 @@
 
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
- * 2.3 Más bucles]()
+ * 2.3 Más bucles
    * Quiz
    * [Counting]()
    * [Counting to hundred]()
@@ -139,7 +139,7 @@
    * [Sum of a sequence - the sequel]()
    * [Factorial]()
    * [Repeating, breaking and remembering (5 parts)]()
- * 2.4 Métodos y división del programa en partes más pequeñas]()
+ * 2.4 Métodos y división del programa en partes más pequeñas
    * [In a hole in the ground]()
    * [Reprint]()
    * Quiz
