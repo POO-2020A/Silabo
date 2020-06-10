@@ -117,16 +117,16 @@
    * [Absolute Value](https://classroom.github.com/a/GbIM8q7h)
    * [Comparing Numbers](https://classroom.github.com/a/G0U4qV_0)
  * 2.2 Bucles de repetición
-   * [Carry on?]()
-   * [Are we there yet?]()
+   * [Carry on?](https://classroom.github.com/a/QkeWpK2g)
+   * [Are we there yet?](https://classroom.github.com/a/mUIy0PTf)
    * Quiz
-   * [Only positives]()
-   * [Number of Numbers]()
-   * [Number of negative numbers]()
-   * [Sum of Numbers]()
+   * [Only positives](https://classroom.github.com/a/IxIHlPYk)
+   * [Number of Numbers](https://classroom.github.com/a/B7sfIBZV)
+   * [Number of negative numbers](https://classroom.github.com/a/erXkZM9T)
+   * [Sum of Numbers](https://classroom.github.com/a/q219Q38g)
    * [Number and sum of numbers]()
    * [Average of numbers]()
-   * [Average of positive numbers)[]
+   * [Average of positive numbers]()
 
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
