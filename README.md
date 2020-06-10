@@ -111,11 +111,11 @@
 ### Clase 4 - Bucles de repetición (2020-06-10)
  * 2.1 Problemas recurrentes y patrones para resolverlos
    * Quiz
-   * [Squared]()
-   * [Square root of sum]()
+   * [Squared](https://classroom.github.com/a/qI_FL7me)
+   * [Square root of sum](https://classroom.github.com/a/zbVj-zHb)
    * Quiz
-   * [Absolute Value]()
-   * [Comparing Numbers]()
+   * [Absolute Value](https://classroom.github.com/a/GbIM8q7h)
+   * [Comparing Numbers](https://classroom.github.com/a/G0U4qV_0)
  * 2.2 Bucles de repetición
    * [Carry on?]()
    * [Are we there yet?]()
