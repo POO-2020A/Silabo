@@ -124,40 +124,40 @@
    * [Number of Numbers](https://classroom.github.com/a/B7sfIBZV)
    * [Number of negative numbers](https://classroom.github.com/a/erXkZM9T)
    * [Sum of Numbers](https://classroom.github.com/a/q219Q38g)
-   * [Number and sum of numbers]()
-   * [Average of numbers]()
-   * [Average of positive numbers]()
+   * [Number and sum of numbers](https://classroom.github.com/a/Y22-pHnS)
+   * [Average of numbers](https://classroom.github.com/a/WFebt-nc)
+   * [Average of positive numbers](https://classroom.github.com/a/q4sTMMiI)
 
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
  * 2.3 Más bucles
    * Quiz
-   * [Counting]()
-   * [Counting to hundred]()
-   * [From where to where? (2 parts)]()
-   * [Sum of a sequence]()
-   * [Sum of a sequence - the sequel]()
-   * [Factorial]()
-   * [Repeating, breaking and remembering (5 parts)]()
+   * [Counting](https://classroom.github.com/a/QX-jcoDV)
+   * [Counting to hundred](https://classroom.github.com/a/NMa80fRj)
+   * [From where to where? (2 parts)](https://classroom.github.com/a/ksKnj8RH)
+   * [Sum of a sequence](https://classroom.github.com/a/iJmLH9DF)
+   * [Sum of a sequence - the sequel](https://classroom.github.com/a/i2GnD8_O)
+   * [Factorial](https://classroom.github.com/a/mp-FhF-N)
+   * [Repeating, breaking and remembering (5 parts)](https://classroom.github.com/a/Q8JviOcR)
  * 2.4 Métodos y división del programa en partes más pequeñas
-   * [In a hole in the ground]()
-   * [Reprint]()
+   * [In a hole in the ground](https://classroom.github.com/a/IheVIL4A)
+   * [Reprint](https://classroom.github.com/a/p7zhmVHR)
    * Quiz
-   * [From one to parameter]()
-   * [From parameter to one]()
-   * [Division]()
-   * [Divisible by three]()
+   * [From one to parameter](https://classroom.github.com/a/8zG3AwqK)
+   * [From parameter to one](https://classroom.github.com/a/AEBaU0iO)
+   * [Division](https://classroom.github.com/a/e4xVm22I)
+   * [Divisible by three](https://classroom.github.com/a/0Cu6Wk-j)
    * Quiz
-   * [Number uno]()
-   * [Word]()
+   * [Number uno](https://classroom.github.com/a/5JXu2tgR)
+   * [Word](https://classroom.github.com/a/a97mW3Lt)
    * Quiz
    * Quiz
-   * [Summation]()
-   * [Smallest]()
-   * [Greatest]()
-   * [Averaging]()
-   * [Star sign (4 parts)]()
-   * [Advanced astrology (3 parts)]()
+   * [Summation](https://classroom.github.com/a/j27WbJRG)
+   * [Smallest](https://classroom.github.com/a/dQZgU1uh)
+   * [Greatest](https://classroom.github.com/a/V6QkqdY_)
+   * [Averaging](https://classroom.github.com/a/3nT3Aejr)
+   * [Star sign (4 parts)](https://classroom.github.com/a/sq8YUEuL)
+   * [Advanced astrology (3 parts)](https://classroom.github.com/a/dLih_qdJ)
  * 2.5 Cuestionario final
 
 
