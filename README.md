@@ -106,7 +106,7 @@
     * [Leap year](https://classroom.github.com/a/bQRHEz-Y)
     * [Gift tax](https://classroom.github.com/a/iE9Ixoah)
   * 1.7 La programación en nuestra sociedad
-  * 1.8 [Cuestionario final](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4- nytUN1VUNk9aNThONUNaR1daUE1DNFFQMFhTVy4u)
+  * 1.8 [Cuestionario final](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUN1VUNk9aNThONUNaR1daUE1DNFFQMFhTVy4u)
 
 
 ### Clase 4 - Bucles de repetición (2020-06-10)
