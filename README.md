@@ -68,7 +68,6 @@
     * [Conversation](https://classroom.github.com/a/m3tnwET5)
     * [Story](https://classroom.github.com/a/yAaOotg_)
   * 1.4 Variables
-    * [Quiz]()
     * [Various Variables](https://classroom.github.com/a/pI7CHUHR)
     * [Integer Input](https://classroom.github.com/a/uCWzBOyp)
     * [Double Input](https://classroom.github.com/a/5Vji16n3)
@@ -79,17 +78,13 @@
 ### Clase 3 - Introducción a Java (2020-06-08)
   * 1.5 Calculando con números
     * [Seconds in a day](https://classroom.github.com/a/zz7heo2m)
-    * [Quiz]()
-    * [Quiz]()
     * [Sum of two numbers](https://classroom.github.com/a/HR9mJF0M)
     * [Sum of three numbers](https://classroom.github.com/a/AoZhG2ka)
     * [Addition formula](https://classroom.github.com/a/4eU5tRZK)
     * [Multiplication formula](https://classroom.github.com/a/fwKtQM54)
     * [Average of two numbers](https://classroom.github.com/a/pBMpOkEQ)
     * [Average of three numbers](https://classroom.github.com/a/CJZLpszY)
-    * [Quiz]()
     * [Simple calculator](https://classroom.github.com/a/IZ61LjWD)
-    * [Quiz]()
   * 1.6 Declaraciones condicionales y operación condicional
     * [Speeding Ticket](https://classroom.github.com/a/RXPoT1ir)
     * [Check Your Indentation](https://classroom.github.com/a/t1vQbTKm)
@@ -111,16 +106,13 @@
 
 ### Clase 4 - Bucles de repetición (2020-06-10)
  * 2.1 Problemas recurrentes y patrones para resolverlos
-   * Quiz
    * [Squared](https://classroom.github.com/a/qI_FL7me)
    * [Square root of sum](https://classroom.github.com/a/zbVj-zHb)
-   * Quiz
    * [Absolute Value](https://classroom.github.com/a/GbIM8q7h)
    * [Comparing Numbers](https://classroom.github.com/a/G0U4qV_0)
  * 2.2 Bucles de repetición
    * [Carry on?](https://classroom.github.com/a/QkeWpK2g)
    * [Are we there yet?](https://classroom.github.com/a/mUIy0PTf)
-   * Quiz
    * [Only positives](https://classroom.github.com/a/IxIHlPYk)
    * [Number of Numbers](https://classroom.github.com/a/B7sfIBZV)
    * [Number of negative numbers](https://classroom.github.com/a/erXkZM9T)
@@ -132,7 +124,6 @@
 
 ### Clase 5 - Organización de archivos del proyecto (2020-06-15)
  * 2.3 Más bucles
-   * Quiz
    * [Counting](https://classroom.github.com/a/QX-jcoDV)
    * [Counting to hundred](https://classroom.github.com/a/NMa80fRj)
    * [From where to where? (2 parts)](https://classroom.github.com/a/ksKnj8RH)
@@ -143,16 +134,12 @@
  * 2.4 Métodos y división del programa en partes más pequeñas
    * [In a hole in the ground](https://classroom.github.com/a/IheVIL4A)
    * [Reprint](https://classroom.github.com/a/p7zhmVHR)
-   * Quiz
    * [From one to parameter](https://classroom.github.com/a/8zG3AwqK)
    * [From parameter to one](https://classroom.github.com/a/AEBaU0iO)
    * [Division](https://classroom.github.com/a/e4xVm22I)
    * [Divisible by three](https://classroom.github.com/a/0Cu6Wk-j)
-   * Quiz
    * [Number uno](https://classroom.github.com/a/5JXu2tgR)
    * [Word](https://classroom.github.com/a/a97mW3Lt)
-   * Quiz
-   * Quiz
    * [Summation](https://classroom.github.com/a/j27WbJRG)
    * [Smallest](https://classroom.github.com/a/dQZgU1uh)
    * [Greatest](https://classroom.github.com/a/V6QkqdY_)
