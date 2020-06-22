@@ -155,21 +155,21 @@
 
 
 
-### Clase 7 - Ejercicios de consolidación - Listas y matrices(2020-06-22)
+### Clase 7 - Ejercicios de consolidación(2020-06-22)
  * [Ejercicios opcionales](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeBDRTDsSKhNrKIAJxOlnLABWRvW7HU2IDo0qxO6KjIlRg?e=s1bZ8p)
  * [Lanzamiento de dados](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EZOmRwYilMJLlbIpB4ZkqzoBxUMN3SZHkyIMeq_jO5minA?e=0Zlmoa)
+
+
+### Clase 8 - Listas y arreglos (2020-06-24)
  * 3.1 Depuración (debug) de un programa
  * 3.2 Listas
  * 3.3 Matrices
  * 3.4 Usando cadenas
- * 3.5 Encuesta
+ * 3.5 [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNzY0SlEwWFRDMlZNS09WWDFJMTQ0TjJQSi4u)
+ 
 
-
-### Clase 8 - Introducción a la programación orientada a objetos (2020-06-24)
+### Clase 9 - Introducción a la programación orientada a objetos (2020-06-29)
  * 4.1 Introducción a la programación orientada a objetos
-
-
-### Clase 9 - Archivos (2020-06-29)
  * 4.2 Objetos en una lista
  * 4.3 Archivos y datos de lectura
  * 4.4 Encuesta
