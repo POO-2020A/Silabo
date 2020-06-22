@@ -156,7 +156,7 @@
 
 
 ### Clase 7 - Ejercicios de consolidación - Listas y matrices(2020-06-22)
- * (Ejercicios opcionales)[https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeBDRTDsSKhNrKIAJxOlnLABWRvW7HU2IDo0qxO6KjIlRg?e=s1bZ8p]
+ * [Ejercicios opcionales](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeBDRTDsSKhNrKIAJxOlnLABWRvW7HU2IDo0qxO6KjIlRg?e=s1bZ8p)
  * [Lanzamiento de dados](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EZOmRwYilMJLlbIpB4ZkqzoBxUMN3SZHkyIMeq_jO5minA?e=0Zlmoa)
  * 3.1 Depuración (debug) de un programa
  * 3.2 Listas
