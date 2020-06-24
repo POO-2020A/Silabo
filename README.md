@@ -161,10 +161,45 @@
 
 
 ### Clase 8 - Listas y arreglos (2020-06-24)
- * 3.1 Depuración (debug) de un programa
- * 3.2 Listas
- * 3.3 Matrices
- * 3.4 Usando cadenas
+ * 3.1	Descubriendo errores
+ * 3.2	Listas
+  * [Third element](https://classroom.github.com/a/yapA9DhJ)
+  * [Second plus third](https://classroom.github.com/a/kzMwFEQn)
+  * [IndexOutOfBoundsException](https://classroom.github.com/a/08CXY_bu)
+  * [List size](https://classroom.github.com/a/GohcxQio)
+  * [Last in list](https://classroom.github.com/a/9xYLpBBg)
+  * [First and last](https://classroom.github.com/a/zXNhymv5)
+  * [Remember these numbers](https://classroom.github.com/a/n5aahUma)
+  * [Only these numbers](https://classroom.github.com/a/YCKsjUJ_)
+  * [Greatest in list](https://classroom.github.com/a/0WtHJ8bh)
+  * [Index of](https://classroom.github.com/a/qxp7K5Ji)
+  * [Index of smallest](https://classroom.github.com/a/NCLUpU2A)
+  * [Sum of a list](https://classroom.github.com/a/qQTU9TaK)
+  * [Average of a list](https://classroom.github.com/a/w0px5Py_)
+  * [On the list?](https://classroom.github.com/a/h7VPwd9s)
+  * [Print in range](https://classroom.github.com/a/BP9_9VxG)
+  * [Sum](https://classroom.github.com/a/CgpoSb39)
+  * [Remove last](https://classroom.github.com/a/DrQ0OTn-)
+
+ * 3.3	Arreglos
+  * [Swap](https://classroom.github.com/a/6zbpYdq9)
+  * [Index was not found](https://classroom.github.com/a/fCgBwvHI)
+  * [Sum of array](https://classroom.github.com/a/FkbaZdxc)
+  * [Print neatly](https://classroom.github.com/a/IWilTTfP)
+  * [Print in stars](https://classroom.github.com/a/nCxk1nnf)
+
+ * 3.4	Usando cadenas
+  * [Print thrice](https://classroom.github.com/a/DNDzWL2X)
+  * [Is it true](https://classroom.github.com/a/thNTz8j_)
+  * [Login](https://classroom.github.com/a/KKOI5rgT)
+  * [Line by line](https://classroom.github.com/a/R6tpX_zS)
+  * [AV Club](https://classroom.github.com/a/vwxJSHRb)
+  * [First words](https://classroom.github.com/a/nGEHfKCu)
+  * [LastWords](https://classroom.github.com/a/2cQpq5mH)
+  * [Age of the oldest](https://classroom.github.com/a/vEFJpjFY)
+  * [Name of the oldest](https://classroom.github.com/a/H1lZ2gHL)
+  * [Personal details](https://classroom.github.com/a/8lplRFDW)
+
  * 3.5 [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNzY0SlEwWFRDMlZNS09WWDFJMTQ0TjJQSi4u)
  
 
