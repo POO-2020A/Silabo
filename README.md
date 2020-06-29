@@ -203,14 +203,16 @@
  * 3.5 [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNzY0SlEwWFRDMlZNS09WWDFJMTQ0TjJQSi4u)
  
 
-### Clase 9 - Introducción a la programación orientada a objetos (2020-06-29)
+### Clase 9 - Listas y arreglos (2020-06-29)
+ * [Subir ejercicio de carreras de dados](https://classroom.github.com/a/jFaCjUTk)
+ * [Solución a ejercicios opcionales](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeBDRTDsSKhNrKIAJxOlnLABWRvW7HU2IDo0qxO6KjIlRg?e=bo9FnZ)
+ * [Solución básica a carreras de dados](https://github.com/POO-2020A/dice-race)
+
+### Clase 10 - Introducción a la programación orientada a objetos - Clases y Objetos (2020-07-01)
  * 4.1 Introducción a la programación orientada a objetos
  * 4.2 Objetos en una lista
  * 4.3 Archivos y datos de lectura
  * 4.4 Encuesta
-
-
-### Clase 10 - Clases y Objetos (2020-07-01)
  * 5.1 Clases y objetos
  * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
  * 5.3 Variables primitivas y de referencia
