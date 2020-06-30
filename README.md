@@ -213,12 +213,13 @@
  * 4.2 Objetos en una lista
  * 4.3 Archivos y datos de lectura
  * 4.4 Encuesta
- * 5.1 Clases y objetos
- * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
- * 5.3 Variables primitivas y de referencia
 
 
 ### Clase 11 - Objetos y referencias (2020-07-06)
+ * ### PRUEBA
+ * 5.1 Clases y objetos
+ * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
+ * 5.3 Variables primitivas y de referencia
  * 5.4 Objetos y referencias
  * 5.5 Encuesta
 
@@ -226,106 +227,111 @@
 ### Clase 12 - Objetos y listas (2020-07-08)
  * 6.1 Objetos en una lista y una lista como parte de un objeto
  * 6.2 Separar la interfaz de usuario de la lógica del programa
+ * 6.3 Introducción a las pruebas unitarias
+ * 6.4 Encuesta
 
 
 ### Clase 13 - Paradigmas de programación (2020-07-13)
- * 6.3 Introducción a las pruebas unitarias
- * 6.4 Encuesta
  * 7.1 Paradigmas de programación
-
-
-### Clase 14 - Algoritmos (2020-07-15)
  * 7.2 Algoritmos
- * 7.3 Ejercicios de programación más grandes
-
-
-### Clase 15 - Ejercicios de programación (2020-07-20)
  * 7.3 Ejercicios de programación más grandes
  * 7.4 Encuesta
 
 
-### Clase 16 -  (2020-07-22)
+### Clase 14 - Hash maps (2020-07-15)
+ * 8.2 Hash Map
+ * 8.3 Similitud de Objetos
+ * 8.4 Agrupar datos con has maps
 
 
+### Clase 15 - Herencia y Polimofismo (2020-07-20)
+ * ### PRUEBA
 
 
-### Clase 17 -  (2020-07-27)
 
+### Clase 16 - Herencia y Polimofismo Ejercicios (2020-07-22)
 
 
 
-### Clase 18 -  (2020-07-29)
 
+### Clase 17 - Interfaces (2020-07-27)
+ * ### EXAMEN
 
 
 
-### Clase 19 -  (2020-08-03)
+### Clase 18 - Interfaces ejercicios (2020-07-29)
+ * Definición Proyecto semestre
 
 
 
 
-### Clase 20 -  (2020-08-05)
+### Clase 19 - Diagramas de clases y excepciones (2020-08-03)
 
 
 
 
-### Clase 21 -  (2020-08-12)
+### Clase 20 - Diagramas de clases y excepciones ejercicios (2020-08-05)
 
 
 
 
-### Clase 22 -  (2020-08-17)
+### Clase 21 - Type parameters (2020-08-12)
 
 
 
 
-### Clase 23 -  (2020-08-19)
+### Clase 22 - Interfaz gráfica (2020-08-17)
 
 
 
 
-### Clase 24 -  (2020-08-24)
+### Clase 23 - Interfaz gráfica ejercicios (2020-08-19)
+ * ### PRUEBA
 
 
 
+### Clase 24 - Visualización de datos (2020-08-24)
 
-### Clase 25 -  (2020-08-26)
 
 
 
+### Clase 25 - Visualización de datos ejercicios (2020-08-26)
 
-### Clase 26 -  (2020-08-31)
 
 
 
+### Clase 26 - Trabajo en proyecto semestre (2020-08-31)
 
-### Clase 27 -  (2020-09-02)
 
 
 
+### Clase 27 - Trabajo en proyecto semestre (2020-09-02)
 
-### Clase 28 -  (2020-09-07)
 
 
 
+### Clase 28 - Trabajo en proyecto semestre (2020-09-07)
 
-### Clase 29 -  (2020-09-09)
 
 
 
+### Clase 29 - Trabajo en proyecto semestre (2020-09-09)
 
-### Clase 30 -  (2020-09-14)
 
 
 
+### Clase 30 - Presentaciones (2020-09-14)
+ * ### PRUEBA
 
-### Clase 31 -  (2020-09-16)
 
 
+### Clase 31 - Presentaciones (2020-09-16)
 
 
-### Clase 32 -  (2020-09-21)
 
+
+### Clase 32 - Examen (2020-09-21)
+ * ### EXAMEN
 
 
 
