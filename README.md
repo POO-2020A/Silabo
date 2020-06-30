@@ -209,10 +209,41 @@
  * [Solución básica a carreras de dados](https://github.com/POO-2020A/dice-race)
 
 ### Clase 10 - Introducción a la programación orientada a objetos - Clases y Objetos (2020-07-01)
- * 4.1 Introducción a la programación orientada a objetos
- * 4.2 Objetos en una lista
- * 4.3 Archivos y datos de lectura
- * 4.4 Encuesta
+  * 4.1. Introducción a la programación orientada a objetos.
+    * [Your first account]()
+    * [Your first bank transfer]()
+    * [Dog attributes]()
+    * [Room]()
+    * [Whistle]()
+    * [Door]()
+    * [Product]()
+    * [Decreasing counter (3 partes)]()
+    * [Debt]()
+    * [Song]()
+    * [Film]()
+    * [Gauge]()
+    * [Agent]()
+    * [Multiplier]()
+    * [Statistics (4 partes)]()
+    * [Payment Card (6 partes)]()
+  * 4.2. Objetos en una lista
+    * [Items]()
+    * [Personal information]()
+    * [Television programs]()
+    * [Books]()
+  * 4.3. Archivos y datos de lectura
+    * [Number of Strings]()
+    * [Cubes]()
+    * [Creating a New File]()
+    * [Printing a File]()
+    * [Printing a Specified File]()
+    * [Guest List From a File]()
+    * [Is it in the file?]()
+    * [Numbers From a File]()
+    * [Records From a File]()
+    * [Storing Records]()
+    * [Sport Statistics]()
+  * 4.4 Encuesta
 
 
 ### Clase 11 - Objetos y referencias (2020-07-06)
