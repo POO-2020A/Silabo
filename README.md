@@ -248,6 +248,7 @@
 
 ### Clase 11 - Objetos y referencias (2020-07-06)
  * ### PRUEBA
+   * [Crear repositorio para la prueba](https://classroom.github.com/a/uXmuT_dw)
  * 5.1 Clases y objetos
  * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
  * 5.3 Variables primitivas y de referencia
