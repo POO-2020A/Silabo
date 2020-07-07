@@ -246,42 +246,44 @@
   * 4.4 [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMExMNVBVU1Y0UkpTWktJVUlHUzhCVE9KTy4u)
 
 
-### Clase 11 - Objetos y referencias (2020-07-06)
+### Clase 11 - Prueba (2020-07-06)
  * ### PRUEBA
    * [Crear repositorio para la prueba](https://classroom.github.com/a/uXmuT_dw)
+
+
+### Clase 12 - Objetos y referencias (2020-07-08)
  * 5.1 Clases y objetos
  * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
  * 5.3 Variables primitivas y de referencia
  * 5.4 Objetos y referencias
  * 5.5 Encuesta
+ 
 
-
-### Clase 12 - Objetos y listas (2020-07-08)
+### Clase 13 - Objetos y listas (2020-07-13)
  * 6.1 Objetos en una lista y una lista como parte de un objeto
  * 6.2 Separar la interfaz de usuario de la lógica del programa
  * 6.3 Introducción a las pruebas unitarias
  * 6.4 Encuesta
+ 
 
+### Clase 14 - Paradigmas de programación (2020-07-15)
 
-### Clase 13 - Paradigmas de programación (2020-07-13)
  * 7.1 Paradigmas de programación
  * 7.2 Algoritmos
  * 7.3 Ejercicios de programación más grandes
  * 7.4 Encuesta
 
 
-### Clase 14 - Hash maps (2020-07-15)
+### Clase 15 - Hash maps (2020-07-20)
  * 8.2 Hash Map
  * 8.3 Similitud de Objetos
  * 8.4 Agrupar datos con has maps
 
-
-### Clase 15 - Herencia y Polimofismo (2020-07-20)
  * ### PRUEBA
 
 
 
-### Clase 16 - Herencia y Polimofismo Ejercicios (2020-07-22)
+### Clase 16 - Herencia y Polimofismo (2020-07-22)
 
 
 
