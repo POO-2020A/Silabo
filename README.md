@@ -252,11 +252,29 @@
 
 
 ### Clase 12 - Objetos y referencias (2020-07-08)
- * 5.1 Clases y objetos
- * 5.2 Eliminar código repetitivo (sobrecarga de métodos y constructores)
- * 5.3 Variables primitivas y de referencia
- * 5.4 Objetos y referencias
- * 5.5 Encuesta
+  * 5.1. Clases y Objetos
+      * [One Minute](https://classroom.github.com/a/obl2lr7Z)
+      * [Book](https://classroom.github.com/a/iGwRyK0D)
+      * [Cube](https://classroom.github.com/a/NKCJorO7)
+      * [Fitbyte](https://classroom.github.com/a/sKyzGriJ)
+  * 5.2. Eliminar código repetitivo (sobrecarga de métodos y constructores)
+      * [Constructor Overload](https://classroom.github.com/a/8Sasg2Fq)
+      * [Overloaded Counter (2 parts)](https://classroom.github.com/a/bYOafjs9)
+  * 5.4. Variables primitivas y de referencia
+      * [NullPointerException](https://classroom.github.com/a/7sQWNTEw)
+      * [Health station (3 parts)](https://classroom.github.com/a/XiR8Wxse)
+      * [Card payments (4 sections)](https://classroom.github.com/a/Xu2-tb4e)
+      * [Biggest pet shop](https://classroom.github.com/a/8DoXA7cY)
+      * [Comparing apartments (3 parts)](https://classroom.github.com/a/O-Han_mq)
+      * [Song](https://classroom.github.com/a/vS_nEtUH)
+      * [Identical twins](https://classroom.github.com/a/ac-mDlVj)
+      * [Books](https://classroom.github.com/a/Eo2N5Ojo)
+      * [Archive (2 parts)](https://classroom.github.com/a/XcOpjZIM)
+      * [Dating app (3 parts)](https://classroom.github.com/a/DPg7aWWo)
+      * [Money (3 parts)](https://classroom.github.com/a/7T1okJdj)
+  * 5.5. Conclusión
+      * [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNjBTTkFBWUdSREVUTUVTV0o0MjJKUURUUi4u)
+
  
 
 ### Clase 13 - Objetos y listas (2020-07-13)
