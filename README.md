@@ -249,6 +249,7 @@
 ### Clase 11 - Prueba (2020-07-06)
  * ### PRUEBA
    * [Crear repositorio para la prueba](https://classroom.github.com/a/uXmuT_dw)
+   * [Prueba atrasada](https://classroom.github.com/a/66IYWtUR)
 
 
 ### Clase 12 - Objetos y referencias (2020-07-08)
