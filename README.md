@@ -320,7 +320,8 @@
 
 
 ### Clase 18 - Interfaces ejercicios (2020-07-29)
- * Definición Proyecto semestre
+ * ### Presentación proyectos Bimestre 1
+ * Definición Proyecto Bimestre 2
 
 
 
