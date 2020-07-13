@@ -281,7 +281,11 @@
 ### Clase 13 - Objetos y listas (2020-07-13)
  * Corrección de autoevaluaciones GitHub.
  * [Juego de pares y ejecicios :)](https://chalosalvador.github.io/pares-app/)
- * Trabajo grupal para bimestre 1. Desarrollar un juego que nos permita ejercitarnos mientras nos divertimos y jugamos en grupo. Cada grupo debe desarrollar una idea de juego que cumpla con este objetivo, similar al juego de pares presentado. No debe tener interfaz gráfica, se debe ejecutar desde la línea de comandos, esto nos obligará a ser un poco más creativos :)
+ * Trabajo grupal para bimestre 1. 
+   * Desarrollar un juego que nos permita ejercitarnos mientras nos divertimos y jugamos en grupo. 
+   * Cada grupo debe desarrollar una idea de juego que cumpla con este objetivo, similar al juego de pares presentado. 
+   * No debe tener interfaz gráfica, se debe ejecutar desde la línea de comandos, esto nos obligará a ser un poco más creativos :)
+   * Se deben aplicar correctamente los conceptos básicos aprendidos de la programación orientada a objetos.
  * 6.1 Objetos en una lista y una lista como parte de un objeto
  * 6.2 Separar la interfaz de usuario de la lógica del programa
  * 6.3 Introducción a las pruebas unitarias
