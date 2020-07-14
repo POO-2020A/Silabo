@@ -304,6 +304,7 @@
     * [Averages (3 parts)](https://classroom.github.com/a/QEqOHX4p)
     * [Joke Manager (2 parts)](https://classroom.github.com/a/UDXtY6PP)
   * 6.3. Introducción a las pruebas
+    * [TDD](https://github.com/POO-2020A/Silabo/raw/master/TDD.gif)
     * [Exercises (2 parts)](https://classroom.github.com/a/5AxNxZ6V)
   * 6.4. Programas complejos
     * [Encuesta]()
