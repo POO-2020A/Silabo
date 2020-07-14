@@ -290,23 +290,23 @@
 
 ### Clase 14 - Objetos y listas - Paradigmas de programación (2020-07-15)
   * 6.1. Objetos en una lista y una lista como parte de un objeto
-    * 1. [Menu (3 parts)](https://classroom.github.com/a/v_FOxF5d)
-    * 2. [Stack (2 parts)](https://classroom.github.com/a/ByZmd9ao)
-    * 3. [MessagingService](https://classroom.github.com/a/R6CRSdv-)
-    * 4. [Printing a Collection](https://classroom.github.com/a/IWSBjU1s)
-    * 5. [Santa's Workshop (2 parts)](https://classroom.github.com/a/fFUGOrKZ)
-    * 6. [Longest in collection](https://classroom.github.com/a/kF5F_wgF)
-    * 7. [Height Order (3 parts)](https://classroom.github.com/a/Vwq3SSTi)
-    * 8. [Cargo hold (7 parts)](https://classroom.github.com/a/ppEPbRrL)
+    * [Menu (3 parts)](https://classroom.github.com/a/v_FOxF5d)
+    * [Stack (2 parts)](https://classroom.github.com/a/ByZmd9ao)
+    * [MessagingService](https://classroom.github.com/a/R6CRSdv-)
+    * [Printing a Collection](https://classroom.github.com/a/IWSBjU1s)
+    * [Santa's Workshop (2 parts)](https://classroom.github.com/a/fFUGOrKZ)
+    * [Longest in collection](https://classroom.github.com/a/kF5F_wgF)
+    * [Height Order (3 parts)](https://classroom.github.com/a/Vwq3SSTi)
+    * [Cargo hold (7 parts)](https://classroom.github.com/a/ppEPbRrL)
   * 6.2. Separar la interfaz de usuario de la lógica del programa
-    * 1. [Simple Dictionary (4 parts)](https://classroom.github.com/a/EHXdPVkR)
-    * 2. [To do list (2 parts)](https://classroom.github.com/a/GfKV8DC3)
-    * 3. [Averages (3 parts)](https://classroom.github.com/a/QEqOHX4p)
-    * 4. [Joke Manager (2 parts)](https://classroom.github.com/a/UDXtY6PP)
+    * [Simple Dictionary (4 parts)](https://classroom.github.com/a/EHXdPVkR)
+    * [To do list (2 parts)](https://classroom.github.com/a/GfKV8DC3)
+    * [Averages (3 parts)](https://classroom.github.com/a/QEqOHX4p)
+    * [Joke Manager (2 parts)](https://classroom.github.com/a/UDXtY6PP)
   * 6.3. Introducción a las pruebas
-    * 1. [Exercises (2 parts)](https://classroom.github.com/a/5AxNxZ6V)
+    * [Exercises (2 parts)](https://classroom.github.com/a/5AxNxZ6V)
   * 6.4. Programas complejos
-    * 1. [Encuesta]()
+    * [Encuesta]()
  
  * 7.1 Paradigmas de programación
  * 7.2 Algoritmos
