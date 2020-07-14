@@ -278,7 +278,7 @@
 
  
 
-### Clase 13 - Objetos y listas (2020-07-13)
+### Clase 13 -  (2020-07-13)
  * Corrección de autoevaluaciones GitHub.
  * [Juego de pares y ejecicios :)](https://chalosalvador.github.io/pares-app/)
  * Trabajo grupal para bimestre 1. 
@@ -286,14 +286,28 @@
    * Cada grupo debe desarrollar una idea de juego que cumpla con este objetivo, similar al juego de pares presentado. 
    * No debe tener interfaz gráfica, se debe ejecutar desde la línea de comandos, esto nos obligará a ser un poco más creativos :)
    * Se deben aplicar correctamente los conceptos básicos aprendidos de la programación orientada a objetos.
- * 6.1 Objetos en una lista y una lista como parte de un objeto
- * 6.2 Separar la interfaz de usuario de la lógica del programa
- * 6.3 Introducción a las pruebas unitarias
- * 6.4 Encuesta
  
 
-### Clase 14 - Paradigmas de programación (2020-07-15)
-
+### Clase 14 - Objetos y listas - Paradigmas de programación (2020-07-15)
+  * 6.1. Objetos en una lista y una lista como parte de un objeto
+    * 1. [Menu (3 parts)](https://classroom.github.com/a/v_FOxF5d)
+    * 2. [Stack (2 parts)](https://classroom.github.com/a/ByZmd9ao)
+    * 3. [MessagingService](https://classroom.github.com/a/R6CRSdv-)
+    * 4. [Printing a Collection](https://classroom.github.com/a/IWSBjU1s)
+    * 5. [Santa's Workshop (2 parts)](https://classroom.github.com/a/fFUGOrKZ)
+    * 6. [Longest in collection](https://classroom.github.com/a/kF5F_wgF)
+    * 7. [Height Order (3 parts)](https://classroom.github.com/a/Vwq3SSTi)
+    * 8. [Cargo hold (7 parts)](https://classroom.github.com/a/ppEPbRrL)
+  * 6.2. Separar la interfaz de usuario de la lógica del programa
+    * 1. [Simple Dictionary (4 parts)](https://classroom.github.com/a/EHXdPVkR)
+    * 2. [To do list (2 parts)](https://classroom.github.com/a/GfKV8DC3)
+    * 3. [Averages (3 parts)](https://classroom.github.com/a/QEqOHX4p)
+    * 4. [Joke Manager (2 parts)](https://classroom.github.com/a/UDXtY6PP)
+  * 6.3. Introducción a las pruebas
+    * 1. [Exercises (2 parts)](https://classroom.github.com/a/5AxNxZ6V)
+  * 6.4. Programas complejos
+    * 1. [Encuesta]()
+ 
  * 7.1 Paradigmas de programación
  * 7.2 Algoritmos
  * 7.3 Ejercicios de programación más grandes
