@@ -307,26 +307,23 @@
     * ![TDD](TDD.gif)
     * [Exercises (2 parts)](https://classroom.github.com/a/5AxNxZ6V)
   * 6.4. Programas complejos
-    * [Encuesta]()
+    * [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUREMwNEswTkhBV00xVUdCS1JSUUgyMjBKQy4u)
  
- * 7.1 Paradigmas de programación
- * 7.2 Algoritmos
- * 7.3 Ejercicios de programación más grandes
- * 7.4 Encuesta
 
 
 ### Clase 15 - Hash maps (2020-07-20)
- * 8.2 Hash Map
- * 8.3 Similitud de Objetos
- * 8.4 Agrupar datos con has maps
-
- * ### PRUEBA
-
+  * 7.1 Paradigmas de programación
+  * 7.2 Algoritmos
+  * 7.3 Ejercicios de programación más grandes
+  * 7.4 Encuesta
 
 
 ### Clase 16 - Herencia y Polimofismo (2020-07-22)
+  * ### PRUEBA
 
-
+  * 8.2 Hash Map
+  * 8.3 Similitud de Objetos
+  * 8.4 Agrupar datos con has maps
 
 
 ### Clase 17 - Interfaces (2020-07-27)
