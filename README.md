@@ -327,6 +327,8 @@
 
 
 ### Clase 17 - Interfaces (2020-07-27)
+ * ![Binary Search](BinarySeach.gif)
+ * ![Binary Search -1](BinarySeach-1.gif)
  * ### EXAMEN
 
 
