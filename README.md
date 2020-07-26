@@ -321,10 +321,18 @@
 
 ### Clase 17 - Paradigmas de programación (2020-07-27)
   * 7.1 Paradigmas de programación
+    * Liquid containers (3 parts)
+   	* Liquid Containers 2.0 (2 parts)
   * 7.2 Algoritmos
-     * ![BinarySearch](BinarySearch.gif)
-     * ![BinarySearch-1](BinarySearch-1.gif)
+    * Sorting (5 parts)
+	   * Ready-made Sorting Algorithms
+    *	Searching
+    * ![BinarySearch](BinarySearch.gif)
+    * ![BinarySearch-1](BinarySearch-1.gif)
   * 7.3 Ejercicios de programación más grandes
+    * Grade statistics (4 parts)
+    * Recipe search (4 parts)
+    * Big year (3 parts)
   * 7.4 Encuesta
 
 
