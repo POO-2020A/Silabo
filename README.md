@@ -321,19 +321,21 @@
 
 ### Clase 17 - Paradigmas de programación (2020-07-27)
   * 7.1 Paradigmas de programación
-    * Liquid containers (3 parts)
-   	* Liquid Containers 2.0 (2 parts)
+    * [Liquid containers (3 parts)](https://classroom.github.com/a/FnJTuk5i)
+    * [Liquid Containers 2.0 (2 parts)](https://classroom.github.com/a/9-EYIZPu)
   * 7.2 Algoritmos
-    * Sorting (5 parts)
-	   * Ready-made Sorting Algorithms
-    *	Searching
+    * [Sorting (5 parts)](https://classroom.github.com/a/6M7Qas8A)
+    * [Ready-made Sorting Algorithms](https://classroom.github.com/a/7jNkvdy6)
+    * [Searching](https://classroom.github.com/a/IOu9qkbz)
+  * 7.3 Ejercicios de programación más grandes
+    * [Grade statistics (4 parts)](https://classroom.github.com/a/2NVSKmMF)
+    * [Recipe search (4 parts)](https://classroom.github.com/a/pZagq7y0)
+    * [Big year (3 parts)](https://classroom.github.com/a/4iBKz017)
+  * 7.4 [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMlM4ODMzNlBPQjdPOVM4Wk85OU5WQU03NS4u)
+  * ### Binary Search
     * ![BinarySearch](BinarySearch.gif)
     * ![BinarySearch-1](BinarySearch-1.gif)
-  * 7.3 Ejercicios de programación más grandes
-    * Grade statistics (4 parts)
-    * Recipe search (4 parts)
-    * Big year (3 parts)
-  * 7.4 Encuesta
+
 
 
 ### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
