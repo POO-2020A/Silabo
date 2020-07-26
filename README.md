@@ -288,7 +288,7 @@
    * Se deben aplicar correctamente los conceptos básicos aprendidos de la programación orientada a objetos.
  
 
-### Clase 14 - Objetos y listas - Paradigmas de programación (2020-07-15)
+### Clase 14 - Objetos y listas (2020-07-15)
   * 6.1. Objetos en una lista y una lista como parte de un objeto
     * [Menu (3 parts)](https://classroom.github.com/a/v_FOxF5d)
     * [Stack (2 parts)](https://classroom.github.com/a/ByZmd9ao)
@@ -311,41 +311,37 @@
  
 
 
-### Clase 15 - Hash maps (2020-07-20)
+### Clase 15 - Repaso (2020-07-20)
+ * Ejercicios de repaso
+
+
+### Clase 16 - Prueba (2020-07-22)
+  * ### PRUEBA
+
+
+### Clase 17 - Paradigmas de programación (2020-07-27)
   * 7.1 Paradigmas de programación
   * 7.2 Algoritmos
+     * ![BinarySearch](BinarySearch.gif)
+     * ![BinarySearch-1](BinarySearch-1.gif)
   * 7.3 Ejercicios de programación más grandes
   * 7.4 Encuesta
 
 
-### Clase 16 - Herencia y Polimofismo (2020-07-22)
-  * ### PRUEBA
-
+### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
+  * ### EXAMEN
   * 8.2 Hash Map
   * 8.3 Similitud de Objetos
-  * 8.4 Agrupar datos con has maps
+  * 8.4 Agrupar datos con hash maps
 
 
-### Clase 17 - Interfaces (2020-07-27)
- * ![BinarySearch](BinarySearch.gif)
- * ![BinarySearch-1](BinarySearch-1.gif)
- * ### EXAMEN
-
-
-
-### Clase 18 - Interfaces ejercicios (2020-07-29)
- * ### Presentación proyectos Bimestre 1
- * Definición Proyecto Bimestre 2
+### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
+  * ### Presentación proyectos Bimestre 1
+  * Definición Proyecto Bimestre 2
 
 
 
-
-### Clase 19 - Diagramas de clases y excepciones (2020-08-03)
-
-
-
-
-### Clase 20 - Diagramas de clases y excepciones ejercicios (2020-08-05)
+### Clase 20 - Diagramas de clases y excepciones (2020-08-05)
 
 
 
