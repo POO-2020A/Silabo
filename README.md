@@ -340,20 +340,20 @@
 
 ### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
   * ### EXAMEN
-  8.1. Mapa de hash
+  * 8.1. Mapa de hash
      * [Nicknames]()
      * [Abbreviations]()
      * [Print me my hash map]()
      * [Print me another hash map]()
     * [I owe you]()
-  8.2. Similitud de objetos
+  * 8.2. Similitud de objetos
      * [Same date]()
      * [Hash for date]()
      * [Vehicle Registry (3 parts)]()
-  8.3. Agrupando datos usando mapas hash
+  * 8.3. Agrupando datos usando mapas hash
      * [Dictionary of many translations]()
      * [Storage facility (2 parts)]()
-  8.4. Recuperación rápida de datos y agrupación de información
+  * 8.4. Recuperación rápida de datos y agrupación de información
 
 
 ### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
