@@ -340,26 +340,20 @@
 
 ### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
   * ### EXAMEN
-  1. Breve resumen
-    * [Cubes]()
-    * [Average of positive numbers]()
-    * [Liquid containers (3 parts)]()
-    * [Liquid Containers 2.0 (2 parts)]()
-    * [To do list (2 parts)]()
-  2. Mapa de hash
-    * [Nicknames]()
-    * [Abbreviations]()
-    * [Print me my hash map]()
-    * [Print me another hash map]()
+  8.1. Mapa de hash
+     * [Nicknames]()
+     * [Abbreviations]()
+     * [Print me my hash map]()
+     * [Print me another hash map]()
     * [I owe you]()
-  3. Similitud de objetos
-    * [Same date]()
-    * [Hash for date]()
-    * [Vehicle Registry (3 parts)]()
-  4. Agrupando datos usando mapas hash
-    * [Dictionary of many translations]()
-    * [Storage facility (2 parts)]()
-  5. Recuperación rápida de datos y agrupación de información
+  8.2. Similitud de objetos
+     * [Same date]()
+     * [Hash for date]()
+     * [Vehicle Registry (3 parts)]()
+  8.3. Agrupando datos usando mapas hash
+     * [Dictionary of many translations]()
+     * [Storage facility (2 parts)]()
+  8.4. Recuperación rápida de datos y agrupación de información
 
 
 ### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
