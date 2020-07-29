@@ -354,9 +354,24 @@
      * [Dictionary of many translations]()
      * [Storage facility (2 parts)]()
   * 8.4. Recuperación rápida de datos y agrupación de información
+     * [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytURFFPNVgzVFZZUkpCWEdSQU9MMlJPMDRSUS4u)
 
 
 ### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
+  * [Crear cuenta en TMC para entrega de ejecicios](https://tmc.mooc.fi/)
+  * [Descargar TMCBeans para Windows](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.exe)
+  * [Descargar TMCBeans para Mac](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.dmg)
+  * Descargar TMCBeans para Linux
+    * [Instalar snapd](https://snapcraft.io/docs/installing-snapd)
+    * Ejecutar: `sudo snap install --classic tmcbeans`
+    * Ejecutar: `tmcbeans` o `snap run tmcbeans`
+  * Iniciar sesion en TMC Beans con la cuenta de TMC
+  * Selecionar la organizacion Escuela Politecnica Nacional
+  * Seleccionar el curso Programación Orientada a Objetos
+  * Descargar los ejecicios
+  * Ejecutar la pruebas
+  * Subir el ejercicio a TMC
+  
   * ### Presentación proyectos Bimestre 1
   * Definición Proyecto Bimestre 2
 
