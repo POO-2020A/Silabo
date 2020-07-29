@@ -339,13 +339,13 @@
 
 
 ### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
-  * ### EXAMEN
+  * ### EXAMEN [Crear repos](https://classroom.github.com/a/QdCnUfNy)
   * 8.1. Mapa de hash
      * [Nicknames]()
      * [Abbreviations]()
      * [Print me my hash map]()
      * [Print me another hash map]()
-    * [I owe you]()
+     * [I owe you]()
   * 8.2. Similitud de objetos
      * [Same date]()
      * [Hash for date]()
