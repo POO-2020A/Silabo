@@ -358,19 +358,21 @@
 
 
 ### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
-  * [Crear cuenta en TMC para entrega de ejecicios](https://tmc.mooc.fi/)
-  * [Descargar TMCBeans para Windows](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.exe)
-  * [Descargar TMCBeans para Mac](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.dmg)
-  * Descargar TMCBeans para Linux
-    * [Instalar snapd](https://snapcraft.io/docs/installing-snapd)
-    * Ejecutar: `sudo snap install --classic tmcbeans`
-    * Ejecutar: `tmcbeans` o `snap run tmcbeans`
-  * Iniciar sesion en TMC Beans con la cuenta de TMC
-  * Selecionar la organizacion Escuela Politecnica Nacional
-  * Seleccionar el curso Programación Orientada a Objetos
-  * Descargar los ejecicios
-  * Ejecutar la pruebas
-  * Subir el ejercicio a TMC
+  * Nueva manera de entregar ejercicios
+    * [Crear cuenta en TMC para entrega de ejecicios](https://tmc.mooc.fi/)
+    * Descargar TMCBeans
+      * [Windows](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.exe)
+      * [Mac](https://download.mooc.fi/tmcbeans/installers/tmcbeans_1.4.0_installer.dmg)
+      * Linux
+        * [Instalar snapd](https://snapcraft.io/docs/installing-snapd)
+        * Ejecutar: `sudo snap install --classic tmcbeans`
+        * Ejecutar: `tmcbeans` o `snap run tmcbeans`
+    * Iniciar sesion en TMC Beans con la cuenta de TMC
+    * Selecionar la organización Escuela Politecnica Nacional
+    * Seleccionar el curso Programación Orientada a Objetos
+    * Descargar los ejecicios
+    * Ejecutar las pruebas desde TMCBeans
+    * Subir el ejercicio a TMC desde TMCBeans
   
   * ### Presentación proyectos Bimestre 1
   * Definición Proyecto Bimestre 2
