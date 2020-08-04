@@ -338,26 +338,11 @@
 
 
 
-### Clase 18 - Hash Maps Interfaces ejercicios (2020-07-29)
+### Clase 18 - EXAMEN (2020-07-29)
   * ### EXAMEN [Crear repos](https://classroom.github.com/a/QdCnUfNy)
-  * 8.1. Mapa de hash
-     * [Nicknames]()
-     * [Abbreviations]()
-     * [Print me my hash map]()
-     * [Print me another hash map]()
-     * [I owe you]()
-  * 8.2. Similitud de objetos
-     * [Same date]()
-     * [Hash for date]()
-     * [Vehicle Registry (3 parts)]()
-  * 8.3. Agrupando datos usando mapas hash
-     * [Dictionary of many translations]()
-     * [Storage facility (2 parts)]()
-  * 8.4. Recuperación rápida de datos y agrupación de información
-     * [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytURFFPNVgzVFZZUkpCWEdSQU9MMlJPMDRSUS4u)
 
 
-### Clase 19 - Herencia y Polimofismo - Interfaces (2020-08-03)
+### Clase 19 - Hash Maps (2020-08-03)
   * Nueva manera de entregar ejercicios
     * [Crear cuenta en TMC para entrega de ejecicios](https://tmc.mooc.fi/)
     * Descargar TMCBeans
@@ -375,46 +360,60 @@
     * Subir el ejercicio a TMC desde TMCBeans
   
   * ### Presentación proyectos Bimestre 1
-  * Definición Proyecto Bimestre 2
+  
+  * 8.1. Mapa de hash
+     * [Nicknames]()
+     * [Abbreviations]()
+     * [Print me my hash map]()
+     * [Print me another hash map]()
+     * [I owe you]()
+  * 8.2. Similitud de objetos
+     * [Same date]()
+     * [Hash for date]()
+     * [Vehicle Registry (3 parts)]()
+  * 8.3. Agrupando datos usando mapas hash
+     * [Dictionary of many translations]()
+     * [Storage facility (2 parts)]()
+  * 8.4. Recuperación rápida de datos y agrupación de información
+     * [Encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytURFFPNVgzVFZZUkpCWEdSQU9MMlJPMDRSUS4u)
+
+
+### Clase 20 - Herencia y Polimorfismo (2020-08-05)
 
 
 
-### Clase 20 - Diagramas de clases y excepciones (2020-08-05)
+
+### Clase 21 - Interfaces (Herencia múltiple) (2020-08-12)
 
 
 
 
-### Clase 21 - Type parameters (2020-08-12)
+### Clase 22 - Diagramas de clases y excepciones (2020-08-17)
 
 
 
 
-### Clase 22 - Interfaz gráfica (2020-08-17)
+### Clase 23 - Type parameters (2020-08-19)
 
 
 
 
-### Clase 23 - Interfaz gráfica ejercicios (2020-08-19)
+### Clase 24 - Ejercicios type parameters (2020-08-24)
+
+
+
+
+### Clase 25 - Interfaz gráfica (2020-08-26)
+
+
+
+
+### Clase 26 - Ejercicios interfaz gráfica (2020-08-31)
  * ### PRUEBA
 
 
 
-### Clase 24 - Visualización de datos (2020-08-24)
-
-
-
-
-### Clase 25 - Visualización de datos ejercicios (2020-08-26)
-
-
-
-
-### Clase 26 - Trabajo en proyecto semestre (2020-08-31)
-
-
-
-
-### Clase 27 - Trabajo en proyecto semestre (2020-09-02)
+### Clase 27 - Visualización de datos (2020-09-02)
 
 
 
@@ -425,12 +424,11 @@
 
 
 ### Clase 29 - Trabajo en proyecto semestre (2020-09-09)
-
-
-
-
-### Clase 30 - Presentaciones (2020-09-14)
  * ### PRUEBA
+
+
+
+### Clase 30 - Trabajo en proyecto semestre (2020-09-14)
 
 
 
