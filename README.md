@@ -379,6 +379,7 @@
 
 
 ### Clase 20 - Herencia y Polimorfismo (2020-08-05)
+  * [Solución examen](https://github.com/POO-2020A/examen-solucion)
 
 
 
