@@ -380,12 +380,48 @@
 
 ### Clase 20 - Herencia y Polimorfismo (2020-08-05)
   * [Solución examen](https://github.com/POO-2020A/examen-solucion)
-
-
+  * 9.1 Herencia de clase
+     * ABC (2 partes)
+     * Person and subclasses (5 partes)
+     * Warehousing (7 partes)
+     * DifferentKindsOfBoxes (3 partes)
+  * 9.2 Interfaces
+     * TacoBoxes (2 partes)
+     * Interface in a box (4 partes)
+     * List as a method parameter
+     * Map as a method parameter
+     * Set as method parameter
+     * Online shop (8 partes)
+  * 9.3 Polimorfismo de objeto
+     * Herds (2 partes)
+     * Animals (4 parts)
+  * 9.4 Resumen
+     * Encuesta
 
 
 ### Clase 21 - Interfaces (Herencia múltiple) (2020-08-12)
-
+  * 10.1 Manejo de colecciones como flujos
+     * Average of Numbers
+     * Average of selected numbers
+     * Positive Numbers
+     * Divisible
+     * Printing User Input
+     * Limited numbers
+     * Unique last names
+     * Weighting (2 parts)
+     * Reading Files Per Line
+     * Books from file 
+  * 10.2. La interfaz comparable
+     * Wage order
+     * Students on alphabetical order
+     * Literacy comparison (2 parts)
+     * Literature (3 parts)
+  * 10.3 Otras técnicas útiles
+     * Regular expressions (3 parts)
+     * Enum and Iterator (4 parts)
+     * Sort them cards! (6 parts)
+   * 10.4 Resumen
+     * Resultados de aprendizaje de la Parte 10
 
 
 
