@@ -456,8 +456,87 @@
 
 
 ### Clase 28 - Visualización de datos (2020-09-07)
- * [Sonido](front-desk-bells-daniel_simon.wav)
-
+ * ### 14.2 Multimedia
+   * [Sonido bells](front-desk-bells-daniel_simon.wav)
+ * ### 14.3 Asteroids
+   * Keyboard Listener 
+   
+   ![Keyboard Listener](pane-polygon-move.gif)
+   
+   
+   * Giro sutil 
+   
+   ![Giro sutil](pane-polygon-move-rotate.gif)
+   
+   
+   * AnimationTimer
+   
+   ![AnimationTimer](pane-polygon-move-rotate-better.gif)
+   
+   
+   * Movimiento de la nave
+   
+   ![Movimiento de la nave](pane-alus-liikkuu.gif)
+   
+   
+   * Aceleración de la nave
+   
+   ![Aceleración de la nave](pane-alus-kiihtyy.gif)
+   
+   
+   * Aceleración mejorada de la nave
+   
+   ![Aceleración mejorada de la nave](alus-kiihtyy-fiksummin.gif)
+   
+   
+   * Asteroide
+   
+   ![Asteroide](asteroidi-huti.gif)
+   
+   
+   * Choque entre nave y asteroide
+   
+   ![Choque entre nave y asteroide](asteroids-tormays.gif)
+   
+   
+   * Multiples asteroides con formas, rotación y movimientos diferentes
+   
+   ![Multiples asteroides con formas, rotación y movimientos diferentes](asteroidit-liikkuu.gif)
+   
+   
+   * Manteniendo los personajes dentro de la pantalla
+  
+   ![Manteniendo los personajes dentro de la pantalla](asteroids-pysyy-ruudussa.gif)
+   
+   
+   * Proyectiles
+   
+   ![Proyectiles](alus-ampuu.gif)
+   
+   
+   * Mejores proyectiles
+   
+   ![Mejores proyectiles](ammus-poistaa-asteroidin.gif)
+   
+   
+   * Proyectiles
+   
+   ![Proyectiles](ammus-poistuu.gif)
+   
+   
+   * Aumento de puntos
+   
+   ![Aumento de puntos](pisteet-kasvavat.gif)
+   
+   
+   * Puntos por impactar un asteroide
+   
+   ![Puntos por impactar un asteroide](asteroids-ammuskelua.gif)
+   
+   
+   * Juego de asteroides listo
+   
+   ![Juego de asteroides listo](asteroids-ready.gif)
 
 
 ### Clase 29 - Trabajo en proyecto semestre (2020-09-09)
