@@ -430,33 +430,33 @@
 
 
 
-### Clase 23 - Type parameters (2020-08-19)
+### Clase 23 - Interfaz gráfica (2020-08-19)
 
 
 
 
-### Clase 24 - Ejercicios type parameters (2020-08-24)
+### Clase 24 - Ejercicios interfaz gráfica (2020-08-24)
 
 
 
 
-### Clase 25 - Interfaz gráfica (2020-08-26)
+### Clase 25 - Type parameters (2020-08-26)
 
 
 
 
-### Clase 26 - Ejercicios interfaz gráfica (2020-08-31)
- * ### PRUEBA
-
-
-
-### Clase 27 - Visualización de datos (2020-09-02)
+### Clase 26 - Ejercicios type parameters (2020-08-31)
 
 
 
 
-### Clase 28 - Trabajo en proyecto semestre (2020-09-07)
+### Clase 27 - Trabajo en proyecto semestre (2020-09-02)
 
+
+
+
+### Clase 28 - Visualización de datos (2020-09-07)
+ * [Sonido](front-desk-bells-daniel_simon.wav)
 
 
 
