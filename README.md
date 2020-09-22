@@ -554,7 +554,7 @@
 
 
 ### Clase 32 - Examen (2020-09-21)
- * ### EXAMEN [Crear repo]()
+ * ### EXAMEN [Crear repo](https://classroom.github.com/a/G9zJ7LtX)
 
 
 
